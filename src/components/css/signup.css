@@ -1,0 +1,25 @@
+.maintitle {
+    color: #000;
+    font-size: 24px;
+}
+p {
+    color: #000;
+    font-size: 14px;
+}
+.name, .email, .password, .re_password {
+    display: flex;
+    width: 378px;
+    height: 55px;
+    border-radius: 10px;
+    border: 2px solid #E4E4E4;
+}
+.email {
+    display: inline-block;
+}
+.emailbutton {
+    padding: 8px, 10px;
+    margin-left: 10px;
+    border-radius: 3px;
+    background: #FFF;
+    border: 1px solid #3EB7AF;
+}
