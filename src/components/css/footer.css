@@ -1,0 +1,13 @@
+ul li{
+    display: inline-block;
+    list-style-type: none;
+    font-family: "Noto Sans";
+    font-size: 10px;
+    padding: 0px 20px;
+    border-right: 1px solid black;
+}
+ul li:last-child {
+    border-style: none;
+}
+
+  

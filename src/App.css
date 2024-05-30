@@ -1,6 +1,44 @@
 .App {
   text-align: center;
 }
+.header {
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  height: 62px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Pretendard';
+  z-index: 1;
+  background-color: white;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  width: 100%;
+  font-family: 'Pretendard';
+}
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  height: 62px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Pretendard';
+  z-index: 1;
+  background-color: white;
+}
 
 .App-logo {
   height: 40vmin;

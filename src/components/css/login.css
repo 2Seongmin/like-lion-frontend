@@ -1,0 +1,50 @@
+.maintitle {
+    color: #000;
+    font-size: 24px;
+}
+p {
+    color: #000;
+    font-size: 14px;
+}
+.email, .password {
+    display: flex;
+    width: 378px;
+    height: 55px;
+    border-radius: 10px;
+    border: 2px solid #E4E4E4;
+}
+.idremember {
+    color: #797979;
+    font-size: 12px;
+    margin: 10px 0px;
+}
+.buttontext {
+    width: 378px;
+    height: 52px;
+    padding: 8px 28px;
+    font-family: 'Pretendard';
+    justify-content: center;
+    align-items: left;
+    border-radius: 10px;
+    border: none;
+    background: #85D6D1;
+    margin: 20px 0px;
+}
+table {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+caption {
+    color: #797979;
+    font-size: 12px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+caption a{
+    text-decoration: none;
+    color: inherit;
+}
+td {
+    padding: 10px 20px;
+}

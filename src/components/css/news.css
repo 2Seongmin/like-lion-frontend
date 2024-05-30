@@ -1,0 +1,41 @@
+.bigtitle {
+    color: #000;
+    font-family: Pretendard;
+    font-size: 24px;
+    font-weight: 700;
+}
+.news {
+    border-bottom: 1px solid #ABE2DF;
+  }
+  .tablebox {
+    width: 543px;
+  }
+.channel {
+    color: #000;
+    font-family: Pretendard;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+  }
+ .title {
+    color: #000;
+    font-family: Pretendard;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+  }
+  .contents {
+    color: #797979;
+    font-family: Pretendard;
+    font-size: 14px;
+  }
+  .news img {
+    width: 88.061px;
+    height: 96px;
+    border-radius: 10px;
+    margin: 10px;
+    margin-left: 50px;
+  }
+  
